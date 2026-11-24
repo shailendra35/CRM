@@ -1,4 +1,4 @@
-import { test } from '../fixtures';
+import { test } from '../fixtures/crm.fixtures';
 
 test('authenticate and save state', async ({ loginPage, page }) => {
   await loginPage.gotoLoginPage();

@@ -1,11 +1,11 @@
 import { test as base, expect } from '@playwright/test';
-import { LoginPage } from './pages/loginpage';
-import { CRMPage } from './pages/crm/crm-page';
-import { LeadPage } from './pages/crm/lead-page';
-import { OpportunityPage } from './pages/crm/opportunity-page';
-import { QuotationPage } from './pages/crm/quotation-page';
-import { SalesOrderPage } from './pages/crm/salesorder-page';
-import { SalesInvoicePage } from './pages/crm/salesinvoice-page';
+import { LoginPage } from '../pages/loginpage';
+import { CRMPage } from '../pages/crm/crm-page';
+import { LeadPage } from '../pages/crm/lead-page';
+import { OpportunityPage } from '../pages/crm/opportunity-page';
+import { QuotationPage } from '../pages/crm/quotation-page';
+import { SalesOrderPage } from '../pages/crm/salesorder-page';
+import { SalesInvoicePage } from '../pages/crm/salesinvoice-page';
 
 
 

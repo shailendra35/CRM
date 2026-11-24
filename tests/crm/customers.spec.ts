@@ -1,4 +1,4 @@
-import { test, expect } from '../../fixtures';
+import { test, expect } from '../../fixtures/crm.fixtures';
 
 test.describe('CRM customers', () => {
   test.beforeEach(async ({ loginPage, page }) => {
