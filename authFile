@@ -1,0 +1,55 @@
+{
+  "cookies": [
+    {
+      "name": "sid",
+      "value": "Guest",
+      "domain": "staging-dek.dataworld.com.np",
+      "path": "/",
+      "expires": 1790686417.351244,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "system_user",
+      "value": "no",
+      "domain": "staging-dek.dataworld.com.np",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "full_name",
+      "value": "Guest",
+      "domain": "staging-dek.dataworld.com.np",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "user_id",
+      "value": "Guest",
+      "domain": "staging-dek.dataworld.com.np",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "user_lang",
+      "value": "en",
+      "domain": "staging-dek.dataworld.com.np",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
