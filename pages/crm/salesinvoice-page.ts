@@ -43,7 +43,6 @@ export class SalesInvoicePage {
     async clickSubmitButton() {
         await this.page.getByRole('button', { name: 'Submit' }).click();
         setTimeout(() => {}, 2000); // Wait for the submission to process
-        await this.page.getByRole('button', { name: 'Yes' }).click();
     }
 
 }

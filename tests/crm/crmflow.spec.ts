@@ -56,7 +56,7 @@ test.describe('CRM Flow', () => {
       await salesinvoicePage.accountingDetails();
       await salesinvoicePage.clickSaveButton();
       await salesinvoicePage.clickSubmitButton();
-      await expect(page).toHaveURL(/\/sales-invoice\/SI-\d+/, { timeout: 15000 });
+      await expect(page).toHaveURL(/\/sales-invoice\/SI-DWPL\d+/, { timeout: 15000 });
     });
 });
 
